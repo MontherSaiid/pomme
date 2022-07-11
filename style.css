@@ -76,6 +76,9 @@ nav {
 
 }
 
+.space {
+  margin-left: 0.4rem;
+}
 
 .article-description {
   text-align: justify;
